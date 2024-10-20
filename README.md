@@ -10,7 +10,7 @@
         <img src="Assets/genereal roadmap.png" style="width: 22em; margin-right:9%">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Ahmed-Hereiz/Data-Science-Roadmap-IEEE-2024/blob/main/Roadmap%20Into%20Weeks.md">
+    <a href="https://github.com/AhmedNasef3/Data-Science-Roadmap/blob/main/Roadmap%20Into%20Weeks.md">
         <img src="Assets/Scheduled roadmap.png" style="width:22em;" >
     </a>
 </p>
