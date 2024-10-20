@@ -6,7 +6,7 @@
 
 <h3 align="center">  ⏬ Click On either roadmap ⏬ </h3>
 <p align="center">
-    <a href="https://github.com/Ahmed-Hereiz/Data-Science-Roadmap-IEEE-2024/blob/main/General%20Roadmap.md">
+    <a href="https://github.com/AhmedNasef3/Data-Science-Roadmap/blob/main/General%20Roadmap.md">
         <img src="Assets/genereal roadmap.png" style="width: 22em; margin-right:9%">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
